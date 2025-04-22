@@ -40,7 +40,6 @@ Exploratory Data Analysis (EDA) of Disney+ content catalog, analyzing genres, re
  **Movies**: 90% are 70-120 minutes long
 **TV Shows**: 75% have 1-2 seasons
 
-# **Setup & Usage**
 # **Prerequisites**
 - Python 3.8+
 - Jupyter Notebook (optional)
